@@ -1,0 +1,7 @@
+C:\Users\albam\OneDrive\Documents\Primer Semestre 2022\Programación 2\Cortos\202010088_CORTO2\202010088_COMUNICACIONES\obj\Debug\net5.0-windows\202010088_COMUNICACIONES.vbproj.AssemblyReference.cache
+C:\Users\albam\OneDrive\Documents\Primer Semestre 2022\Programación 2\Cortos\202010088_CORTO2\202010088_COMUNICACIONES\obj\Debug\net5.0-windows\_202010088_COMUNICACIONES.Form1.resources
+C:\Users\albam\OneDrive\Documents\Primer Semestre 2022\Programación 2\Cortos\202010088_CORTO2\202010088_COMUNICACIONES\obj\Debug\net5.0-windows\202010088_COMUNICACIONES.vbproj.GenerateResource.cache
+C:\Users\albam\OneDrive\Documents\Primer Semestre 2022\Programación 2\Cortos\202010088_CORTO2\202010088_COMUNICACIONES\obj\Debug\net5.0-windows\202010088_COMUNICACIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albam\OneDrive\Documents\Primer Semestre 2022\Programación 2\Cortos\202010088_CORTO2\202010088_COMUNICACIONES\obj\Debug\net5.0-windows\202010088_COMUNICACIONES.AssemblyInfoInputs.cache
+C:\Users\albam\OneDrive\Documents\Primer Semestre 2022\Programación 2\Cortos\202010088_CORTO2\202010088_COMUNICACIONES\obj\Debug\net5.0-windows\202010088_COMUNICACIONES.AssemblyInfo.vb
+C:\Users\albam\OneDrive\Documents\Primer Semestre 2022\Programación 2\Cortos\202010088_CORTO2\202010088_COMUNICACIONES\obj\Debug\net5.0-windows\202010088_COMUNICACIONES.vbproj.CoreCompileInputs.cache
